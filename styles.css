@@ -5,7 +5,7 @@
   body {
     margin: 0;
     font-family: sans-serif;
-    background: #FEF5E7;
+    background: #FDF2E9;
   }
   
   .header {
@@ -13,7 +13,7 @@
     text-transform: uppercase;
     padding: 32px;
     background-color: #0a0a23;
-    color: #FEF5E7;
+    color: #FDF2E9;
     border-bottom: 4px solid #fdb347;
   }
   
